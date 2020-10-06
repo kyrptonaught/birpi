@@ -5,7 +5,9 @@ See https://github.com/kyrptonaught/linkedstorage
 Repo: 'https://dl.bintray.com/kyrptonaught/Birpi'
 'net.kyrptonaught:birpi:<version>'  Latest version : [ ![Download](https://api.bintray.com/packages/kyrptonaught/Birpi/birpi/images/download.svg) ](https://bintray.com/kyrptonaught/Birpi/birpi/_latestVersion)
   
-  The resourcepack should be placed in "/resources/resourcepacks" see https://github.com/kyrptonaught/linkedstorage/tree/master/src/main/resources/resourcepacks
+  The resourcepack should be placed in "/resources/resourcepacks/" as .zip files. 
+  
+  See https://github.com/kyrptonaught/linkedstorage/tree/master/src/main/resources/resourcepacks
 
 1) Add the entrypoint in your fabric.mod.json: "registerbirpis"
 2) Implement RegisterBIRPI 
