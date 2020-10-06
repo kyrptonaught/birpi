@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "net.kyrptonaught.birpi.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "ResourcePackManagerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
