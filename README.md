@@ -27,3 +27,5 @@ LinkedStorage.MOD_ID = your mod's id
 "EnderStorage for LinkedStorage" = description
 
 this.getClass() = an instance of your main mod class(used for grabing the resourcepack as an inputstream from the mod jar)
+
+![ingame](https://i.imgur.com/4j24V6F.png)
